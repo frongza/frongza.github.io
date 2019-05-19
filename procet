@@ -1,0 +1,514 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+		<title>Graphic Card</title>         
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+		<link href="https://fonts.googleapis.com/css?family=Mali|Chonburi" rel="stylesheet">
+		
+
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="icon fa-diamond"></span>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>Graphic Card </h1>
+								<p>มารู้จัก ที่มาของการ์ดจอให้มากขึ้น<br/>
+
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#PRESENT"> History of the video card</a></li>
+								<li><a href="#work">specification</a></li>
+								<li><a href="#TEST">TEST</a></li>
+								<li><a href="#contact">Contact</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							 </ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- History of the video card -->
+							<article id="PRESENT">
+								<a href="#top"</a>
+								<h2 class="major">ที่มาของการ์จอ</h2>
+								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+								<p>คอมพิวเตอร์มีบทบาทที่สำคัญในการประยุกต์ใช้งานด้านต่าง ๆ สิ่งที่มีบทบาทสำคัญอย่างหนึ่งในรูปแบบการประยุกต์ใช้งานคือ การแสดงผล หากย้อนรอยในอดีตคงจำได้ว่าการแสดงผลในยุคแรกที่ใช้กับเครื่องรุ่น 8 บิต และรุ่น 16 บิต ยุคต้นที่ใช้โอเอสดอส ยังเป็นการแสดงผลด้วยเท็กซ์โหมด 
+									<br>
+							        <p>  การแสดงผลในรูปแบบตัวอักษรใช้กันมานานพอควร จอภาพแสดงตัวอักษรได้เพียง 25 บรรทัด บรรทัดละ 80 ตัวอักษร ครั้นจะแสดงกราฟิกส์ก็ได้ความละเอียดของการแสดงผลจำกัด การแสดงสีก็มีจำนวนสีได้จำกัด ครั้นถึงยุคสมัยการใช้ระบบปฏิบัติการวินโดว์ ซึ่งอยู่ในช่วงระยะเวลาประมาณสิบปีที่ผ่านมานี้เอง (วินโดว์ 95 ใช้กันราวปี 1995) การแสดงผลได้เปลี่ยนยุคมาเป็นการแสดงผลแบบกราฟิกส์ ความต้องการเรื่องการแสดงผลจึงเปลี่ยนแปลงโดยใช้เทคโนโลยีพิเศษสำหรับการแสดงผล มีการพัฒนาระบบการแสดงผลให้ดีขึ้นเรื่อย ๆ โดยเฉพาะการตอบสนองการแสดงผลที่ต้องแสดงรูปภาพเคลื่อนไหวรูปภาพสามมิติ (3D) รวมทั้งการจัดการประมวลผลภาพแบบต่าง ๆ อีกมากมาย ทั้งนี้เพราะการประยุกต์ทางกราฟิกส์เป็นความต้องการของผู้ใช้คอมพิวเตอร์ ตั้งแต่การใช้เล่นเกม การแสดงผลงานทางธุรกิจ การออกแบบทางวิศวกรรม การเชื่อมต่อเพื่อแสดงผลภาพ วิดีโอ การแสดงผลภาพเคลื่อนไหวต่าง ๆ เหล่านี้ล้วนแล้วแต่ต้องการความรวดเร็วของการประมวลผล และต้องการเทคนิคพิเศษต่าง ๆ เพิ่มเติม ความเป็นมา จุดเริ่มต้นของการแสดงผลเริ่มจากการส่งตัวอักษร ซึ่งเป็นสายอักขระมาที่อุปกรณ์เอาท์พุต อุปกรณ์เริ่มแรกจึงมีลักษณะการพิมพ์แสดงผลที่เรียกว่า เทเลไทป์ (teletype) ลักษณะของเทเลไทป์ จึงมีแป้นพิมพ์ และตัวพิมพ์ในลักษณะเครื่องพิมพ์แบบดอตแมทริกซ์รวมกัน ต่อมามีการพัฒนาให้เป็นการแสดงผลบนจอหรือที่เรียกว่า วิดีโอดาต้าเทอร์มินอล มีลักษณะการแสดงผลบนจอภาพ และมีแป้นพิมพ์ (คีย์บอร์ด) ที่ป้อนตัวอักษรได้ด้วย อุปกรณ์นี้จึงมีชื่ออีกอย่างว่า ดัมบ์เทอร์มินอล (dump terminal) เพราะใช้แสดงผลตามข้อมูลสายอักขระที่ส่งมาเท่านั้น และแสดงผลเป็นบรรทัดเรียงกันไป   
+
+          ครั้นถึงยุคสมัยพีซี จึงต้องทำพีซีให้กระทัดรัด ใช้งานง่าย ราคาถูก อุปกรณ์แสดงผลด้วยจอภาพและแป้นพิมพ์จึงเป็นอุปกรณ์สำคัญของพีซีด้วย เมื่อไอบีเอ็มพัฒนาพีซีขึ้นในปี ค.ศ. 1981 ไอบีเอ็มได้พัฒนาวงจรเชื่อมต่อกับจอมอนิเตอร์เป็นแบบการแสดงผลตัวอักษร และแสดงผลได้สีเดียว และให้ชื่อวงจรเชื่อมต่อนี้ว่า MDA-Monochrome Display Adapter ถัดจากนั้นอีกหนึ่งปีก็พัฒนาการแสดงผลแบบสี ซึ่งแสดงผลทั้งแบบตัวอักษรและโหมดกราฟิกส์ วงจรเชื่อมต่อแบบใหม่มีชื่อว่า CGA-Color Graphic Adapter ด้วยความต้องการแสดงผลเชิงรูปภาพแบบกราฟิกส์ และการแสดงผลแบบสีเป็นความต้องการ ประจวบกับเทคโนโลยีการแสดงผลได้พัฒนามาเป็นลำดับ ในปี 1984 ไอบีเอ็มได้พัฒนาระบบการแสดงผลที่ขยายขีดความสามารถเดิมของ CGA ออกไป และให้ชื่อว่า EGA-Enhance Graphic Adapter หลังจากนั้นอีกไม่กี่ปี ก็พัฒนาระบบการแสดงผลกราฟิกส์ที่เป็นรากฐานสำหรับเทคโนโลยีการแสดงผล โดยใช้ชื่อเทคโนโลยีว่า VGA-Video Graphic Array</p>
+                                                                        
+                                                            
+
+							</article>
+
+						<!-- Work -->
+							<article id="work">
+							<a href="#top"</a>
+								<h2 class="major">วิธีเลือกสเปคของการ์จอ</h2>
+								<center><img src="images/Q1.jpg" width= "300" height="300" alt="" /></center>
+								<p>การ์ดจอหรือชื่ออย่างเป็นทางการว่า GPU (Graphics Processing Unit) ก็เป็นหนึ่งอุปกรณ์ฮาร์ดแวร์ที่ใช้สำหรับแสดงภาพกราฟิกบนหน้าจอแถมยังเป็นฮาร์ดแวร์ยอดฮิตที่มีการพัฒนากันอย่างต่อเนื่องเพื่อรองรับกับกราฟิกเกมที่มีความสมจริงขึ้นเรื่อย ๆ จึงทำให้ในปัจจุบันก็มีการ์ดจอวางจำหน่ายทั้งค่าย NVIDIA และ AMD ให้เลือกซื้อกันเต็มไปหมดแต่สำหรับมือใหม่ที่อยากจะถอยการ์ดจอตัวใหม่ก็คงจะต้องสับสนแน่ ๆ ว่าควรจะมีหลักการเลือกซื้ออย่างไรกันบ้าง ซึ่งวันนี้ก็มี Tips ดี ๆ จาก PCGAMER มาแนะนำการเลือกซื้อการ์ดจอและเกร็ดน่ารู้ที่น่าสนใจเป็นจำนวน 6 ข้อด้วยกันแต่จะมีอะไรบ้างก็ไปดูกันเลยครับ</p>
+								    <br>
+                                                                <p>-ดูรหัสการ์ดจอให้เป็น</p>
+                                                                 <center><img src="images/Q2.jpg" width= "500" height="300" alt="" /></center>
+                                                                 <p>ไม่ว่าจะ NVIDIA ก็ดีหรือ AMD ก็ดีการเลือกซื้อขั้นพื้นฐานและสิ่งที่เห็นได้ชัดที่สุดเลยก็คือรหัสการ์ดจอที่จะแบ่งได้ง่าย ๆ เลยยกตัวอย่างเช่น GTX 780 เป็นการ์ดจอของ NVIDIA โดยที่เลข 7 ด้านหน้าจะเป็นตัวบ่งบอกความใหม่ของเทคโนโลยีส่วนเลขลำดับถัดมาก็จะเป็นความแรงของการ์ดจอสมมุติถ้าเทียบกันระหว่าง GTX 690 กับ GTX 680 ก็หมายความว่าทั้งสองตัวมีเทคโนโลยีเท่ากันแต่ GTX 690 แรงกว่า GTX 680 เพราะเลขลำดับที่สองมีจำนวนมากกว่านั่นเอง  การณีของ AMD ก็จะคล้ายกับ NVIDIA โดยสังเกตุที่ตัวเลขถ้าหากตัวเลขมีจำนวนมากก็แสดงว่าการ์ดจอตัวนั้นมีความแรงมากเช่น AMD R9 290 กับ AMD R9 280 ก็แสดงว่า AMD R9 290 มีความแรงมากกว่า AMD R9 280 ครับและถ้าหากสังเกตุให้ละเอียดในการ์ดจอบางตัวจะมีตัวอักษรต่อท้ายอย่าง Redeon R9 290X โดยตัว X ที่ต่อท้ายนั้นก็หมายความว่าเป็นการ์ดจอที่ทางโรงงานเอาไปเพิ่มประสิทธิภาพให้แรงขึ้นไปอีกครับ
+
+แต่ถึงอย่างนั้นก็ใช่ว่าการที่จะซื้อการ์ดจอแรง ๆ ไว้ก่อนจะเป็นผลดีเสมอไปแต่จำเป็นจะต้องดูประสิทธิภาพของฮาร์ดแวร์ในเครื่องคอมพิวเตอร์ของเราด้วยว่ามันรองรับกันหรือสัมพันธ์กันหรือไม่ครับ</p>
+                                                                <p>-RAM การ์ดจอไม่สำคัญเท่า Bandwidth และ Bus Width</p>
+                                                                <center><img src="images/Q3.jpg" width= "500" height="300" alt="" /></center>
+                                                                <p>การซื้อการ์ดจอที่มี RAM สูง ๆ ก็ใช่ว่าจะได้ประสิทธิภาพที่สูงเสมอไปซึ่งการจะให้การ์ดจอแสดงผลได้อย่างมีประสิทธิภาพก็ต้องดูปัจจัยอื่นที่มากกว่า RAM เช่น Bandwidth และค่า Bus Width ที่เปรียบเหมือนช่องทางการรับส่งข้อมูลซึ่งถ้าหากค่า Bus Width สูงก็เหมือนกับช่องทางที่กว้างสามารถรับส่งข้อมูลได้เร็วขึ้นไหลลื่นขึ้นซึ่งต่อให้การ์ดจอที่มี RAM เพียง 1.5 GB มีค่า Bus Width สูงกว่าย่อมมีประสิทธิภาพกว่าการ์ดจอ RAM 2 GB แต่มีค่า Bus Width น้อยครับฉะนั้นการเลือกซื้อการ์ดจอต้องดูข้อมูลมากกว่า RAM ไม่งั้นอาจจะโดนหลอกก็เป็นได้</p>
+                                                                <p>-เลือกการ์ดจอให้เหมาะสมกับคอมพิวเตอร์ของเราด้วย</p>
+                                                                <center><img src="images/Q4.jpg" width= "500" height="300" alt="" /></center> 
+                                                                <p>อุปกรณ์ฮาร์ดแวร์อื่น ๆ ก็สำคัญไม่แพ้การ์ดจอเช่นกันโดยเฉพาะพวก CPU ที่ใช้ก็ควรจะต้องเหมาะสมหรือสัมพันธ์กันกับการ์ดจอด้วยเพราะถ้าหากคุณใช้ CPU รุ่นเก่าจำพวก Celeron , Pentium , Sempron หรือ Athlon X2 ก็ไม่ควรที่จะนำการ์ดจอแรง ๆ ระดับท็อปมาใช้เพราะมันจะส่งผลเสียและแสดงประสิทธิภาพได้ไม่เต็มที่ซึ่งทางที่ดีควรจะซื้อการ์ดจอในระดับกลางจะดีกว่าแถมยังประหยัดเงินไปได้อีกเยอะ แต่ถ้าหากอยากจะให้เกมที่เล่นแสดงผลได้เต็มสูบก็ควรจะต้องเปลี่ยน processor ใหม่ให้เข้ากับการ์ดจอด้วยและในกรณีที่มีหน้าจอเก่า ๆ ความละเอียดต่ำกว่า 1280×1024 ก็เช่นเดียวกันครับควรจะเลือกการ์ดจอในระดับที่เท่ากันเพื่อจะได้ไม่เสียเงินโดยไม่จำเป็นครับ</p>
+                                                                <p>-ไม่จำเป็นต้องต่อการ์ดจอ 2 ตัวเสมอไป</p>
+                                                                <center><img src="images/Q5.jpg" width= "500" height="300" alt="" /></center>
+							        <p>สิ่งที่เรียกกันว่า Crossfire หรือ SLI นั้นจริงอยู่ว่ามันจะช่วยให้การทำงานในด้านภาพ 3D แรงขึ้นแต่มันก็ไม่ใช่สิ่งจำเป็นเสมอไปครับเพราะในความเป็นจริงแล้วประสิทธิภาพของการ์ดจอตัวที่สองจะแสดงได้ไม่เต็มร้อยซึ่งส่วนมากมันจะทำงานเพียง 25-50 เปอร์เซ็นต์เท่านั้นและในขณะเดียวกันหากต่อการ์ดจอเพิ่มอีกเป็น 3 – 4 ตัวเปอร์เซ็นต์การทำงานของการ์ดจอตัวหลัง ๆ มันก็จะถูกลดทอนลงตามลำดับแต่ถึงอย่างนั้นมันก็มีข้อดีในเรื่องของการประมวลผลกราฟิกหรือเล่นเกมบนหน้าจอความละเอียดสูงซึ่งการทำ Crossfire หรือ SLI ก็จะเห็นผลชัดเจนกว่าการมีการ์ดจอใบเดียวและถ้าหากในกรณีที่ผู้ใช้มีหน้าจอ 4K หรือต่อหน้าจอหลายจอแล้วหล่ะก็มันก็คุ้มค่าที่จะทำแต่ถ้ามีหน้าจอธรรมดาไม่เว่อร์เกินไปการทำ Crossfire หรือ SLI ก็คงจะไม่ใช่ตัวเลือกที่ดีนักครับ</p>
+                                                                <p>-Power Supply ก็สำคัญนะ</p>
+                                                                <center><img src="images/Q6.jpg" width= "500" height="300" alt="" /></center>
+                                                                <p>นอกจากจะต้องดูรายละเอียดของการ์ดจอให้ดีแล้วอีกหนึ่งอุปกรณ์ที่เปรียบเหมือนหัวใจหลักก็คือ Power Supply นั่นเองเพราะการ์ดจอเป็นสิ่งที่ใช้ไฟเยอะมากที่สุดและถ้าหากเรามี Power Supply ตัวดี ๆ มันก็จะสามารถจ่ายกระแสไฟไปเลี้ยงได้เพียงพอและในขณะเดียวกันถ้าหากเรามี Power Supply ที่ไม่สัมพันธ์หรือมีประสิทธิภาพต่ำกว่ากับตัวการ์ดจอแล้วหล่ะก็อาจจะเกิดฝันร้ายของชาว PC เช่นอาจจะทำให้ฮาร์ดแวร์บางอย่างในเครื่องไหม้ก็ได้ครับ ทางที่ดีถ้าหากจะซื้อการ์ดจอก็ควรดูด้วยว่า Power Supply ที่มีนั้นเหมาะสมหรือไม่หรือจะลงทุนซื้อ Power Supply ใหม่ไปเลยก็เป็นทางเลือกที่ดีครับโดยมียี่ห้อแนะนำอย่างเช่น Corsair , Antec และ Seasonic โดยมีราคาระดับหลักพันขึ้นไปซึ่งขอแนะนำตรงนี้เลยว่าให้ลงทุนซื้อ Power Supply ตัวดี ๆ ครั้งเดียวไปเลยครับคุ้มค่าแน่นอน</p>                                                               <p>-ดูระบบระบายความร้อนของการ์ดจอประเภท Reference และ Non-Reference </p>
+                                                                <p>-ดูระบบระบายความร้อนของการ์ดจอประเภท Reference และ Non-Reference </p>
+                                                                <center><img src="images/Q7.jpg" width= "500" height="300" alt="" /></center>
+                                                                <p>โดยทั้ง 2 ประเภทจะมีข้อแตกต่างในเรื่องของพัดลมระบายอากาศซึ่งการ์ดจอแบบ Non-Reference จะแสดงประสิทธิภาพได้ดีกว่านิดหนึ่งรวมไปถึงฟีเจอร์เล็ก ๆ น้อย ๆ อย่างการดีไซน์สวยกว่า , ประหยัดไฟมากขึ้นหรือมีสเปคที่รองรับเกมได้ดีกว่าแบบ Reference ซึ่งตรงนี้ก็ขึ้นอยู่กับผู้ใช้งานแล้วว่าต้องการที่จะซื้อมาทำอะไรเช่นถ้าอยากจะเล่นเกมหนัก ๆ เป็นชีวิตจิตใจซื้อเกมใหม่มาลองเล่นตลอดตัวการ์ดจอแบบ Non-Reference ก็จะดูดีกว่าแต่ถ้าเล่นเกมหนักบ้างเบาบ้างหรือใช้ทำงานไปด้วยการ์ดจอ Reference อาจจะเป็นคำตอบที่ใช่แต่ทั้งนี้ทั้งนั้นก็ขึ้นอยู่กับความพึงพอใจของผู้ใช้ครับว่าชอบแบบไหนมากกว่ากันโดยราคาของทั้งคู่ก็ไม่หนีไปจากกันมากเท่าไหร่ครับ
+
+ก็จะเห็นว่าการซื้อการ์ดจอใหม่มาสักหนึ่งตัวจำเป็นจะต้องคำนึงถึงปัจจัยอื่น ๆ เยอะมากทีเดียวครับและหวังว่า Tips ที่นำมาเสนอนี้จะช่วยให้เพื่อน ๆ ตัดสินใจเลือกซื้อการ์ดจอได้ง่ายขึ้นนะครับ</p>
+
+
+
+                                         </article>
+
+						<!-- TEST -->
+							<article id="TEST">
+								<h2 class="major">TEST</h2>
+								<a>คำชี้แจง</a>
+								<center><img src="images/Q9.jpg" width= "300" height="300" alt="" /></center>
+								
+<title>แบบทดสอบ CSS</title>
+
+      <link rel="stylesheet" type="text/css" href="./css/style.css" />
+
+
+      <script src="http://www.fastlearning.in/controller/js/jquery-1.9.1.min.js"></script>
+
+      <script type="text/javascript">
+	     $(document).ready(function() {
+         $('label').click(function() {
+        $('label').removeClass('worngans');
+        $(this).addClass('worngans');
+        });
+        });
+	    </script>
+
+   </head>
+   <body >
+<center><h2 class="major">แบบทดสอบ GRAPHIC CARD></center>
+<div class="scp-quizzes-main">
+
+<div class="scp-quizzes-data">
+
+  <h3>1.GRAPHIC CARD มีหน้าที่ทำอะไร?</h3>
+  <input type="radio" name="question1">
+  <label>ก. เป็นขยะ</label><br/>
+  <input type="radio"  name="question1">
+  <label>ข. ช่วยการจัดเก็บ</label><br/>
+  <input type="radio" name="question1" id="css">
+  <label for="css">ค.รายละเอียนของภาพ</label> <br/>
+  <input type="radio" name="question1">
+  <label>ง. เป็นการตัดต่อ</label>
+</div><br>
+
+<div class="scp-quizzes-data">
+   <h3>2.วิธีการเลือกซื้อการ์ดจอมีกี่วิธี?</h3>
+  <input type="radio" name="question2">
+  <label>ก. 3</label>
+  <input type="radio"  name="question2" id="textcolor">
+  <label for="textcolor">ข. 6 </label>
+  <input type="radio" name="question2">
+  <label>ค. 9</label>
+  <input type="radio" name="question2">
+  <label>ง. 11</label>
+</div><br>
+
+<div class="scp-quizzes-data">
+  <h3>3.วิธีที่ 1 คืออะไร?</h3>
+  <input type="radio" name="question3" id="ican">
+  <label for="ican">ก.ดูหรัสการ์ดจอ </label><br/>
+  <input type="radio" name="question3">
+  <label>ข. ไม่จำเป็นต้องต่อการ์ดจอ 2 ตัวเสมอไป</label> <br/>
+  <input type="radio" name="question3">
+  <label>ค. ดูระบบระบายความร้อนของการ์ดจอประเภท</label> <br/>
+  <input type="radio" name="question3">
+  <label>ง. ดูจากราคา</label> <br/>
+</div><br>
+
+<div class="scp-quizzes-data">
+  <h3>4.ถ้าจะเล่นเกมในยุคนี้ควรใช้การ์ดจอแบบไหน?</h3>
+  <input type="radio" name="question4">
+  <label>ก.GTX 1020 </label><br/>
+  <input type="radio" name="question4" id="vdo">
+  <label for="vdo">ข. GTX 1070</label> <br/>
+  <input type="radio" name="question4">
+  <label>ค. GTX 1020 TI</label> <br/>
+  <input type="radio" name="question4">
+  <label>ง. GTX 1040</label> <br/>
+</div><br>
+
+<div class="scp-quizzes-data">
+  <h3>จากรูปภาพ นี้คือรุ่นอะไร</h3>
+  <center><img src="images/Q10.jpg" width= "600" height="350" /></center>
+  <h3>5.หมายเลข 1 หมายถึงข้อใด?</h3>
+  <input type="radio" name="question5">
+  <label>ก. GTX 1050</label><br/>
+  <input type="radio" name="question5">
+  <label>ข. GTC 1050 TI</label> <br/>
+  <input type="radio" name="question5">
+  <label>ค. GTZ 1050</label> <br/>
+  <input type="radio" name="question5" id="s5">
+  <label for="s5">ง. GTX 1050 TI</label><br/>
+</div><br>
+
+<div class="scp-quizzes-data">
+  <h3>6.เลือกการ์ดจอให้เหมาะสมกับคอมพิวเตอร์ของเราด้วย อยู่ข้อไหนของการเลือกซื้อ?</h3>
+  <input type="radio" name="question6">
+  <label>ก. 4</label><br/>
+  <input type="radio" name="question6" id="s6">
+  <label for="s6">ข. 3</label> <br/>
+  <input type="radio" name="question6">
+  <label>ค.  2</label> <br/>
+  <input type="radio" name="question6">
+  <label>ง. 6</label> <br/>
+</div><br>
+
+<div class="scp-quizzes-data">
+  <h3>7.Crossfire หรือ SLI นั้นจริงอยู่ว่ามันจะช่วยให้การทำงานในด้านไหน?</h3>
+  <input type="radio" name="question7" id="s7">
+  <label for="s7">ก. ภาพ 3D</label><br/>
+  <input type="radio" name="question7">
+  <label>ข. ภาพ 2D</label> <br/>
+  <input type="radio" name="question7">
+  <label>ค.  ภาพถ่าย</label> <br/>
+  <input type="radio" name="question7">
+  <label>ง. ถูกทุกข้อ</label> <br/>
+</div><br>
+
+
+
+</div>
+
+  </body>
+</html>						
+  
+
+							</center>
+	</article>
+							<!-- Contact -->
+							<article id="contact">
+								<h2 class="major">Contact</h2>
+								<form method="post" action="https://mail.google.com/mail/u/0/#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="4"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Reset" /></li>
+									</ul>
+								</form>
+								<ul class="icons">
+									
+								<li><a href="https://web.facebook.com/profile.php?id=100002921993760" class="icon fa-facebook"><span class="label">Facebook</span></a></li>	
+									
+								</ul>
+							</article>
+
+						<!-- Elements -->
+							<article id="elements">
+								<h2 class="major">Elements</h2>
+
+								<section>
+									<h3 class="major">Text</h3>
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+									<hr />
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<h6>Heading Level 6</h6>
+									<hr />
+									<h4>Blockquote</h4>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+									<h4>Preformatted</h4>
+									<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+								</section>
+
+								<section>
+									<h3 class="major">Lists</h3>
+
+									<h4>Unordered</h4>
+									<ul>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Alternate</h4>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Ordered</h4>
+									<ol>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis viverra.</li>
+										<li>Felis enim feugiat.</li>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis lorem.</li>
+										<li>Felis enim et feugiat.</li>
+									</ol>
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Table</h3>
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</section>
+
+								<section>
+									<h3 class="major">Buttons</h3>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Primary</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button primary icon fa-download">Icon</a></li>
+										<li><a href="#" class="button icon fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button primary disabled">Disabled</span></li>
+										<li><span class="button disabled">Disabled</span></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Form</h3>
+									<form method="post" action="#">
+										<div class="fields">
+											<div class="field half">
+												<label for="demo-name">Name</label>
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Jane Doe" />
+											</div>
+											<div class="field half">
+												<label for="demo-email">Email</label>
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld" />
+											</div>
+											<div class="field">
+												<label for="demo-category">Category</label>
+												<select name="demo-category" id="demo-category">
+													<option value="">-</option>
+													<option value="1">Manufacturing</option>
+													<option value="1">Shipping</option>
+													<option value="1">Administration</option>
+													<option value="1">Human Resources</option>
+												</select>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+												<label for="demo-priority-low">Low</label>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-high" name="demo-priority">
+												<label for="demo-priority-high">High</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-copy" name="demo-copy">
+												<label for="demo-copy">Email me a copy</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-human" name="demo-human" checked>
+												<label for="demo-human">Not a robot</label>
+											</div>
+											<div class="field">
+												<label for="demo-message">Message</label>
+												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" class="primary" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</form>
+								</section>
+
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Design By: <a href="https://www.facebook.com/earthinnocent">EARTHSHECK</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>s
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
